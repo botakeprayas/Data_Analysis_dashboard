@@ -48,7 +48,9 @@ Support executives with data-driven decisions.
 5. **Overall Business Health**:
    - Strong growth rate of 294.23% signals market expansion and higher customer acquisition.
    - Balanced sales distribution across multiple channels and retailers reduces business risk.
-
+     
+# Dashboard
+<a href =""
 ## Conclusion
 The Adidas Sales Dashboard highlights exceptional growth and profitability, driven by strong footwear sales and retailer partnerships. 
 The shift towards online sales reflects changing consumer trends, while regional and category insights provide clear direction for strategic planning. 
