@@ -50,7 +50,7 @@ Support executives with data-driven decisions.
    - Balanced sales distribution across multiple channels and retailers reduces business risk.
      
 # Dashboard
-<a href =""
+<a href ="https://github.com/botakeprayas/Data_Analysis_dashboard/blob/main/Screenshot%202025-09-14%20121312.png">Dasboard</a>
 ## Conclusion
 The Adidas Sales Dashboard highlights exceptional growth and profitability, driven by strong footwear sales and retailer partnerships. 
 The shift towards online sales reflects changing consumer trends, while regional and category insights provide clear direction for strategic planning. 
