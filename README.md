@@ -16,7 +16,7 @@ Highlight areas for profitability optimization.
 Support executives with data-driven decisions.
 
 ## Dataset Use
-< a href = "https://github.com/botakeprayas/Data_Analysis_dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
+< a href = "https://github.com/botakeprayas/Data_Analysis_dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx"> Dataset </a>
 
 
 
