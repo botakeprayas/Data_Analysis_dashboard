@@ -51,6 +51,7 @@ Support executives with data-driven decisions.
      
 # Dashboard
 <a href ="https://github.com/botakeprayas/Data_Analysis_dashboard/blob/main/Screenshot%202025-09-14%20121312.png">Dasboard</a>
+
 ![image alt](https://github.com/botakeprayas/Data_Analysis_dashboard/blob/757e8e4eaa2721d2e80a3688ecad887d7493070f/Screenshot%202025-09-14%20121312.png)
 ## Conclusion
 The Adidas Sales Dashboard highlights exceptional growth and profitability, driven by strong footwear sales and retailer partnerships. 
